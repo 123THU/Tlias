@@ -7,8 +7,8 @@ Tlias系统基于SpringBoot框架完成，由于时间较短，因此仅实现�
 # Deploy
 
 前端：文件中包含完整的html, css, js代码以及需要的nginx conf的配置文件
-  windows: 直接点击.exe文件即可启动nginx
-  macOS: 自行下载并配置nginx服务器，将前端文件中的conf配置文件设置为自己的nginx服务器的配置文件，即可
+  - windows: 直接点击.exe文件即可启动nginx
+  - macOS: 自行下载并配置nginx服务器，将前端文件中的conf配置文件设置为自己的nginx服务器的配置文件，即可
         （可参考CSDN文章进行操作：https://blog.csdn.net/weixin_62015493/article/details/136430716）
 
 后端：大部分代码可以直接运行
@@ -17,5 +17,9 @@ Tlias系统基于SpringBoot框架完成，由于时间较短，因此仅实现�
 
 前后端都可正常运行之后，浏览器访问http://localhost:90进入登录界面：用户名和密码在数据库的user表中保存，使用哪一个都可以，默认密码为123456
 
+
+# Interesting Secret:
+本repo是我在2024.12.19 中午12:05等午饭的时候闲着无聊create的(doge :) ~
+期末周进行中...
 
      
